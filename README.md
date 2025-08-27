@@ -20,7 +20,18 @@ I gained my first professional experience in the gastronomy as a service employe
 
 Thanks to my various experiences, I can quickly familiarize myself with new structures and gain an overview.
 
-| video | know-how |
+### picture editing
+|Software | know-how |
+|-----:|---------------|
+|    Photoshop| editing picture         |
+|    Gimp| editing picture             |
+|    Snipping Tools|  use for manual and markers             |
+|    Paint|  picture editing and manuals             |
+|   MS Publisher|  creat flyer and invitation             |
+|    Ms PowerPoint|  picture editing and compose for presentation             |
+
+### video editing
+| Software| know-how |
 |-----:|---------------|
 |    Adobe Premier| Videocut intro outro with compose and greenscreen         |
 |    Magix Movie Maker|  Videocut intro outro with compose             |
