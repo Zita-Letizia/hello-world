@@ -1,7 +1,21 @@
 # About me
 I am Zita I come from swizerland and I am on the way to be a frontend-developer.
 
+| Rank | Frontend Skills |
+|-----:|---------------|
+|     1|  HTML         |
+|     2|  CSS             |
+|     3|  Javascript            |
+
+
 ## skills
+| video | know-how |
+|-----:|---------------|
+|    Adobe Premier| Videocut intro outro with compose and greenscreen         |
+|    Magix Movie Maker|  Videocut intro outro with compose             |
+|    Windows Moovie Maker|  Videocut intro outro with compose             |
+
+
 I am merchandiser and had worked in diffrent jobs.
 
 **job-area:** book keeping, archiving, secretary, education administration, gastronomy, sales force.
