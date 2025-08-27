@@ -17,10 +17,6 @@ I love music and play guitar, piano and accordion. I also sing and made serveral
 I like walk in the nature and pactice 2x Fitness at week. Specially I like dance salsa and orientalish dance. 
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
 
 <!-- safdsaf
