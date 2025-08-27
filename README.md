@@ -26,7 +26,7 @@ Thanks to my various experiences, I can quickly familiarize myself with new stru
 |   Word| 	business letter, paperwork, lists      |
 |    Excel| lists, formatting, easy formula, links           |
 |    outlook|  business letter, task, workflow, date-managment             |
-|    visio|     flow diagram, tastk cycle, decision       |
+|    visio|     flow diagram, task cycle, decision       |
 
 
 ### picture editing
