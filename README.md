@@ -9,11 +9,7 @@ I am Zita I come from swizerland and I am on the way to be a frontend-developer.
 
 
 ## skills
-| video | know-how |
-|-----:|---------------|
-|    Adobe Premier| Videocut intro outro with compose and greenscreen         |
-|    Magix Movie Maker|  Videocut intro outro with compose             |
-|    Windows Moovie Maker|  Videocut intro outro with compose             |
+
 
 
 I am merchandiser and had worked in diffrent jobs.
@@ -23,6 +19,12 @@ I am merchandiser and had worked in diffrent jobs.
 I gained my first professional experience in the gastronomy as a service employee and assistant cook. 
 
 Thanks to my various experiences, I can quickly familiarize myself with new structures and gain an overview.
+
+| video | know-how |
+|-----:|---------------|
+|    Adobe Premier| Videocut intro outro with compose and greenscreen         |
+|    Magix Movie Maker|  Videocut intro outro with compose             |
+|    Windows Moovie Maker|  Videocut intro outro with compose             |
 
 ## hobby
 ### music
