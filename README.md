@@ -20,6 +20,15 @@ I gained my first professional experience in the gastronomy as a service employe
 
 Thanks to my various experiences, I can quickly familiarize myself with new structures and gain an overview.
 
+### MS Office
+|Software | know-how |
+|-----:|---------------|
+|   Word| 	business letter, paperwork, lists      |
+|    Excel| lists, formatting, easy formula, links           |
+|    outlook|  use for manual and markers             |
+|    visio|  business letter, workflow, takes             |
+
+
 ### picture editing
 |Software | know-how |
 |-----:|---------------|
